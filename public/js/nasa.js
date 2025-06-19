@@ -1,3 +1,4 @@
+//Nasa app
 document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("fetchNasaData").addEventListener("click", getNasaData);
 });
